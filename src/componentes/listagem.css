@@ -1,0 +1,68 @@
+
+.container{
+    padding: 20px;
+     display: flex;
+     flex-direction: column;
+      margin-left: 20%;
+      margin-right: 20%;
+    align-items: center;
+    justify-content: center;
+     background:  rgb(240, 240, 240);;
+    
+}
+
+
+.Botoes{
+
+  margin-top: 50px;
+  margin-left: 10px;
+  padding-left: 20px;
+}
+.Editar{
+   
+    
+    
+    
+}
+.card{
+
+   display:flex;
+   flex-direction: column;
+    width: 80%;
+    height: 250px;
+  
+     padding-top: 10px;
+
+     background: white;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 30px;
+     border-radius: 5px;
+    
+}
+.titulo{
+     display: block;
+     margin-left: 20px;
+
+}
+.indentificador{
+  display: block;
+   margin-left: 20px;
+}
+.Excluir{
+     background-color: crimson;
+}
+.botaoLink{
+     margin-top: 20px;
+     padding: 10px;
+     background-color: blue;
+     text-decoration: none;
+     width: 50px;
+     height: 20px;
+     text-align: center;
+     font-size: 20px;
+     color:black;
+     border-radius: 6px;
+     margin-right: 10px;
+    
+}

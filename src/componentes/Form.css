@@ -1,0 +1,115 @@
+
+
+.cont{
+
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 200px;
+    justify-content: center;
+    background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    padding: 20px;
+ }
+ .botaoCadastrar{
+     
+    background-color:blue;
+    font-size: 18px;
+    height: 42px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 6px;
+    margin-left: 20px;
+ }
+
+ .botaoAlterar{
+     
+   background-color: green;
+   font-size: 18px;
+   height: 42px;
+   width: 100px;
+   margin-top: 10px;
+   border-radius: 6px;
+   margin-left: 20px;
+}
+ .botaoExcluir{
+
+    background-color: red;
+    font-size: 18px;
+    height: 42px;
+    width: 70px;
+    margin-top: 10px;
+    border-radius: 6px;
+    
+
+ }
+ label{
+    
+     margin-bottom: 5px;
+     display: flex;
+     margin-left:  auto;
+     margin-top: 40px;
+     margin-top: 20px;
+     margin-left: 20px;
+     
+ }
+  
+ .nome{
+     display : block;
+      width: 60%;
+      height: 25px;
+      font-size: 18px;
+      margin-left: 20px;
+ }
+ 
+ .inputConsulta{
+   display : block;
+   width: 60%;
+   height: 25px;
+   font-size: 18px;
+   margin-left: 20px;
+   background-color: aqua;
+ }
+.formId{
+   display : block;
+   width: 20%;
+   height: 25px;
+   font-size: 18px;
+   margin-left: 20px;
+   background-color: aqua;
+
+}
+
+.containerConsultar{
+   margin-top: 20px;
+   padding: 20px;
+    display: flex;
+    flex-direction: column;
+     margin-left: 20%;
+     margin-right: 20%;
+   align-items: center;
+   justify-content: center;
+    background:  white;
+   
+}
+
+.cardConsulta{
+
+   display:flex;
+   flex-direction: column;
+    width: 80%;
+    height: 250px;
+  
+     padding-top: 10px;
+
+     background: rgb(120, 190, 247);
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 30px;
+     border-radius: 5px;
+    
+}
