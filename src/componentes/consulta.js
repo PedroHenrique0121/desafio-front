@@ -74,8 +74,8 @@ export default function Consultar() {
                         <>
 
                             <div className="cardConsulta" >
-                            <span className="indentificador"> id : <strong>{cli.id_cliente}</strong> </span>
-                            <span className="titulo"> nome do Cliente : <strong>{cli.nome_cliente}</strong></span>
+                            <span className="indentificador"> id : <strong>{cli.idCliente}</strong> </span>
+                            <span className="titulo"> nome do Cliente : <strong>{cli.nomeCliente}</strong></span>
 
                                 
                                 </div>

@@ -26,7 +26,7 @@ export default function Form() {
             alert("O campo nome não pode ser Vazio!")
         }
         else{
-            api.post("/cadastrar", {nome_cliente:nome.nome}).then(res=>{
+            api.post("/cadastrar", {nomeCliente:nome.nome}).then(res=>{
                
                     alert("cliente cadastrado com sucesso!")
                
